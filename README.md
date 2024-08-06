@@ -30,7 +30,7 @@
 ## COMMENTS 
 * This is meant to supplemant cfb.fan / mut.gg, not to replace them. This tool cannot function without access to there datasets, which could change at any time. If you wish for this tool to remain functional, sub to #pro and support gg/fan.
 * As far as ratings formulas, we will not be putting out any stock formulas for CFB25. That will be left up to community/end user. Without access to gamedata, our guess/prefrence is honestly as good as your's there. We could surely make inferances based off madden, but we like hard data.
-* This may also release for madden 25 if community intrest is reasonable. Long term plans on that end would be to integrate actual gameplay curve data, which would serve as a more user freindly form of our vault project from 24/lay against actual player data this time around.
+* This may also release for madden 25 if community interest is reasonable, it was originally built for madden after all. Long term plans on that end would be to integrate actual gameplay curve data, which would serve as a more user freindly form of our vault project from 24/lay against actual player data this time around.
 * Community contributions are welcome.
 
 ## Authors
