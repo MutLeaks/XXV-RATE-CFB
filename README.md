@@ -37,7 +37,7 @@
 ML Team
 
 ## Version History
-* 0.1
+*1.0
     * Prototype release
 
 ## Special Thanks
