@@ -3,7 +3,7 @@
 
 ### Disclaimer
 
-* These tools rely on access to cfb.fan datasets and infrastructure. Mut.gg and Cfb.fan are wonderful community resources, You can support them directly by going #pro if you can. In the event similar features are ever added directly to partner sites, this tool will be immediatly discontinued. 
+* These tools rely on access to cfb.fan datasets and infrastructure. Mut.gg and Cfb.fan are wonderful community resources, You can support them directly by going #pro if you can -> https://www.mut.gg/pro/. In the event similar features are ever added directly to partner sites, this tool will be immediatly discontinued. 
 
 ### Description
 
