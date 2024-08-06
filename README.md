@@ -18,8 +18,6 @@
 
 ## TODO
 
-* Fix dataset (.fan is currently still missing some data, some of our rips didn't run proper, etc)
-* Add autoupdater (checks against current cfb.fan dataset and only rip new additions)
 * Add filtering by abilitys
 * Add filtering by stats
 * Add threshold weighting system for calculations
